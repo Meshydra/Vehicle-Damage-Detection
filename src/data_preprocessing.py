@@ -59,3 +59,4 @@ preprocess_images(images_dir, output_dir, target_size)
 print("Preprocessed")
 # Close any open windows
 cv2.destroyAllWindows()
+a
