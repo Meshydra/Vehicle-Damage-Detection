@@ -1,4 +1,4 @@
-#This file will include the implementation of the deep learning model for damage detection, such as a Convolutional Neural Network (CNN).
+**#This file will include the implementation of the deep learning model for damage detection, such as a Convolutional Neural Network (CNN).
 import tensorflow as tf
 from tensorflow.keras import layers
 
@@ -26,5 +26,6 @@ model.compile(optimizer='adam',
                 loss='categorical_crossentropy',
                 metrics=['accuracy'])
 
-# Print the model summary
+# ***Print the model summary
 model.summary()
+***************
