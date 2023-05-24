@@ -26,5 +26,6 @@ model.compile(optimizer='adam',
                 loss='categorical_crossentropy',
                 metrics=['accuracy'])
 
-# Print the model summary
+# ***Print the model summary
 model.summary()
+***************
