@@ -1,2 +1,3 @@
-# Vehicle Damage Detection
- 
+# About
+The Accident Detection Model is a Python-based project that uses OpenCV, TensorFlow, and image classification techniques to automatically detect accidents in uploaded pictures. It begins by fixing the picture through cropping and resizing using OpenCV. TensorFlow is then utilized to create a deep learning model, which is trained on a dataset of 800 accident and non-accident images using the Adam optimizer. The trained model is capable of predicting whether an uploaded picture is an accident or not. This project aims to improve safety measures and provide an efficient tool for accident detection.
+# Screenshot
